@@ -5,7 +5,9 @@
 ## 🔖 소개
 > **전국에 있는 여행 명소를 추천받고 여행 경험을 공유하는 서비스**
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62537935/225252500-6a7f715e-8105-4b9c-8967-eff572bf020b.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62537935/225252500-6a7f715e-8105-4b9c-8967-eff572bf020b.gif">
+</p>
 
 <br>
 
